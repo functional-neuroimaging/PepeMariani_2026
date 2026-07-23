@@ -1,5 +1,5 @@
 # PepeMariani_2026
-Scripts for preprocessing and figures associated to fUSI and fMRI dataset of the Pepe and Mariani et al. 2026
+Scripts for preprocessing and figures associated to fUSI and fMRI dataset of the [Pepe and Mariani et al., 2026](https://www.biorxiv.org/content/10.64898/2026.02.05.704055v1.full)
 
 Repository is under construction. All codes will be released by the final submission of the article.
 
@@ -10,4 +10,4 @@ This repository is linked with the publicly available dataset ["Structural and d
 - `Main-figures` contains the script to generate the main figures of the manuscript
 - `preprocessing` show the code used to prepocess fUSI data. The current version does not run with the last BIDSified version of the dataset. Next update will make these scripts compatible with last version of the dataset (v0.1.1).
 
-Future releases will contain additional scripts for the supplementary figures. 
+Future releases will contain additional scripts for the supplementary figures.
